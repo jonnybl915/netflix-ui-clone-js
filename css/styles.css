@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box; }
+
+img {
+  width: 100%;
+  display: block; }
+
+#app-container {
+  max-width: 960px;
+  margin: 20px; }
+
+body {
+  background: linear-gradient(down, black, #292929); }
+
+/*# sourceMappingURL=styles.css.map */
